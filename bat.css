@@ -1,0 +1,44 @@
+.batman {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 390px;
+    position: absolute;
+    z-index: 10;
+}
+
+.jocker {
+    height: 330px;
+    margin-left: 370px;
+    margin-top: 120px;
+    z-index: 10;
+}
+
+.bat {
+
+    display: inline-block;
+    height: 180px;
+    width: 180px;
+    margin-left: 390px;
+    position: absolute;
+    z-index: 10;
+}
+
+.arrive {
+    position: absolute;
+    margin-left: 290px;
+    margin-top: 100px;
+    height: 550px;
+    width: 650px;
+    visibility: hidden;
+}
+
+.hwidth {
+    height: 680px;
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 1320px;
+}
